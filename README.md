@@ -23,3 +23,4 @@
 * Angkatan : Integer
 
 # UX Wireframe
+![Index Home Page](https://github.com/marssihsaan/PAW-theory-Sem-5/blob/main/image/6486252_37476.jpg "Index Home Page")
