@@ -23,4 +23,4 @@
 * Angkatan : Integer
 
 # UX Wireframe
-![Index Home Page](https://github.com/marssihsaan/PAW-theory-Sem-5/blob/main/image/6486252_37476.jpg "Index Home Page")
+![Index Home Page](https://github.com/Ribhian/Proposal-Pengembangan-Aplikasi-Web/blob/main/Img/WhatsApp%20Image%202022-09-15%20at%2011.36.25.jpeg "Index Home Page")
